@@ -67,4 +67,4 @@ To become a **high-impact backend engineer building scalable systems.**
 
 ---
 
-⭐️ From [Ashish](https://github.com/miashu07)
+⭐️ From [Ashish](https://github.com/thesilentpulse.in)
