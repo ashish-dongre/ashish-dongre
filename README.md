@@ -28,7 +28,7 @@ To become a **high-impact backend engineer building scalable systems.**
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://instagram.com/mi__ashu" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+<a href="https://instagram.com/thesilentpulse.in" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/ashish-dongre0716" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ashishdongre16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
@@ -67,4 +67,4 @@ To become a **high-impact backend engineer building scalable systems.**
 
 ---
 
-⭐️ From [Ashish](https://github.com/thesilentpulse.in)
+⭐️ From [Ashish](https://github.com/ashish-dongre)
